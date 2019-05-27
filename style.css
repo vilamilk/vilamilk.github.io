@@ -1,0 +1,10 @@
+pre	{
+	font-family: monospace;
+	display: block;
+	white-space: pre;
+	margin: 1em 0;
+
+}
+h2 {
+	font: italic;
+}
